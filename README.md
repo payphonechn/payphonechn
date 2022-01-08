@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bynow&label=Profile%20views&color=0e75b6&style=flat" alt="bynow" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ByNow](https://github.com/payphonechn)
+- 👨‍💻 All of my projects are available at [https://github.com/payphonechn](https://github.com/payphonechn)
 
-- 📝 I regularly write articles on [https://bynow.github.io](https://bynow.github.io)
+- 📝 I regularly write articles on [https://payphonechn.github.io](https://payphonechn.github.io)
 
 - 📫 How to reach me **payphonechn@qq.com**
 
