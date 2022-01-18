@@ -8,7 +8,3 @@
 - 📝 I regularly write articles on [https://payphonechn.github.io](https://payphonechn.github.io)
 
 - 📫 How to reach me **payphonechn@qq.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
